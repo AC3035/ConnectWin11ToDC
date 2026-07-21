@@ -12,7 +12,7 @@ Project consists of connecting a Windows 11 client to an Active DIrectory Domain
 - <b>Windows Server 2022</b> 
 - <b>Active Directory Domain Services</b> 
 
-<h2>Program walk-through:</h2>
+<h2>Project walk-through:</h2>
 
 <p align="center">
 Changing Windows 11 DNS to the DNS of the Domain Controller: <br/>
